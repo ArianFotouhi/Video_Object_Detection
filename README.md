@@ -1,1 +1,1 @@
-![Result 1](./readme_source/car.avi)
+![Result 1](./readme_source/result.gif)
