@@ -2,4 +2,4 @@
 
 ![Result 1](./readme_source/result.gif)
 
-The repository is consisted of object detection using YOLO one image and video data.
+The repository is consisted of object detection using YOLO on image and video.
